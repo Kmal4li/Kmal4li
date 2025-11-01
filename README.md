@@ -4,10 +4,10 @@ Welcome to my github profile!
 
 ## 🧑‍💻 About Me
 
-- 🌐 Website Development (Laravel, Vue.js)
+- 🌐 Website Development (Laravel, Vue Js, React Js)
 - 📱 Mobile App Development (Flutter)
 - 📸 Photografer
-- 🧠 Used to studying alone and trying something new
+- 🧠 Excited to try something new
 
 ---
 
